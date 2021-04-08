@@ -1,10 +1,12 @@
-# template test
-## npm i lrainw-cli
+#### template test
 
-## lrainw-cli init tel-a name   // name 项目名称
+#### npm i lrainw-cli
 
-## lrainw-cli list // 可用模板
+#### lrainw-cli init tel-a name   // name 项目名称
 
-## lrainw-cli -h
+#### lrainw-cli list // 可用模板
 
-## lrainw-cli -V | --version 
+#### lrainw-cli -h
+
+#### lrainw-cli -V | --version 
+
