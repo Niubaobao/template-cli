@@ -5,7 +5,7 @@ const download = require('download-git-repo')// 下载
 const handlebars = require('handlebars') // 解析
 var inquirer = require('inquirer');//终端交互
 const fs = require('fs') // 读取文件
-const ora = require('ora');  // 视觉美化 提示下载文本  loading 效果
+const ora = require('ora');  // 视觉美化 提示下载文本  loading 效果1
 const chalk = require('chalk');
 const logSymbols = require('log-symbols');
 
