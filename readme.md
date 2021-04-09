@@ -13,4 +13,6 @@
 
 #### 在执行npm version patch|minor|major时，会相应地自动更新Changelog文件。
 
+发布npm要增加版本
+
 
