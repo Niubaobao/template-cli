@@ -25,5 +25,16 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Niubaobao/template-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Niubaobao/template-cli/issues"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
   }
 }
