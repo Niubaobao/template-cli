@@ -4,6 +4,7 @@
   "description": "{{description}}",
   "main": "index.js",
   "scripts": {
+    "postversion": "git push --follow-tags",
     "release": "./release.sh",
     "test": "echo \"Error: no test specified\" && exit 1",
     "changelog": "conventional-changelog -p eslint -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md",
