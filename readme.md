@@ -10,3 +10,7 @@
 
 #### lrainw-cli -V | --version 
 
+
+#### 在执行npm version patch|minor|major时，会相应地自动更新Changelog文件。
+
+
